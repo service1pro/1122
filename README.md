@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>이정화 박사| 리테일 강의</title>
+<title>이정화 | 리테일 강의</title>
 <style>
 *{box-sizing:border-box}
 body{
@@ -100,7 +100,7 @@ body{
 
   <section class="top">
     <div class="badge">RETAIL · SERVICE · PEOPLE</div>
-    <h1 class="name">이정화</h1>
+    <h1 class="name">이정화박사</h1>
     <p class="intro">
       리테일 현장에서 배우고 경험한<br>
       <span class="highlight">서비스의 가치를 전합니다.</span>
