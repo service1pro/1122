@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>이정화 | 리테일 강의</title>
+<title>이정화 박사| 리테일 강의</title>
 <style>
 *{box-sizing:border-box}
 body{
